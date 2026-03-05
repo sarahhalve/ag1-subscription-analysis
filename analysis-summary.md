@@ -23,3 +23,7 @@ This project analyzes customer behavior for a subscription-based health suppleme
 - PostgreSQL
 - SQL (Aggregate Functions, GROUP BY, ORDER BY)
 - Git & GitHub for version control
+
+## Business Recommendation
+
+Based on revenue and average spend analysis, the company should prioritize retention strategies for Gold members while exploring targeted upsell opportunities to move Silver customers into the premium tier.
