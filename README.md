@@ -24,3 +24,26 @@ Revenue by Membership:
 Gold: $153,403.90
 Silver: $87,566.60
 Bronze: $54,913.10
+
+Project: AG1 Customer Purchase Analysis
+
+Goal:
+Analyze customer purchase behavior to identify spending trends, membership value, and retention patterns.
+
+Tools Used:
+- SQL (PostgreSQL)
+- pgAdmin
+- Git & GitHub
+- Data analysis techniques
+
+Dataset Features:
+- Customer demographics
+- Membership tiers
+- Total spending
+- Customer satisfaction
+- Purchase frequency
+
+Key Insights:
+- Gold members generated the highest revenue.
+- Bronze members showed higher inactivity risk.
+- No customers exceeded 90 days since last purchase.
